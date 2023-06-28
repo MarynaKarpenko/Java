@@ -18,7 +18,9 @@ public class Task1 {
         System.out.println("Строка содержит подстроку \"Java\": "+containsJava);
 
         // 5. Вырезать строку Java c помощью метода String.substring().
-        System.out.println(myStr.substring(14, 18));
+        String javaSubstring  = myStr.substring(14, 18);
+        String modifiedStr = myStr.replace(javaSubstring,"");
+        System.out.println(modifiedStr);
 
         // 6. Заменить все символы “а” на “о”.
         String replacedStr = myStr.replace('a', 'o');
