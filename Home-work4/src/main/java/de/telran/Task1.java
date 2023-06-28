@@ -5,10 +5,6 @@ public class Task1 {
         // 1. Создайте строку через new - I study Basic Java!
         String myStr = new String("I study Basic Java!");
 
-        // 2. Напишите метод, который принимает в качестве параметра строку,
-        // передайте в этот метод строку, которую создали в п.1
-        System.out.println(myStr);
-
         // 3. Распечатать пред-последний символ строки. Используем метод String.charAt().
         System.out.println(myStr.charAt(myStr.length()-2));
 
@@ -33,5 +29,14 @@ public class Task1 {
         // 8. Преобразуйте строку к нижнему регистру.
         String lowerCaseStr = myStr.toLowerCase();
         System.out.println("Строка в нижнем регистре: "+lowerCaseStr);
+
+
+        // 2. Напишите метод, который принимает в качестве параметра строку,
+        // передайте в этот метод строку, которую создали в п.1
+        System.out.println(myStr);
+        printStr(myStr);
+    }
+    public static void printStr(String inStr) {
+        System.out.println("Принятая строка: "+inStr);
     }
 }
