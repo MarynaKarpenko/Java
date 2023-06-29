@@ -6,3 +6,7 @@
 [code](Home-work3/src/main/java/de/telran/CalculatorScanner.java)
 ### Home_work4
 [code](Home-work4/src/main/java/de/telran/Task1.java)
+### Home_work5
+[code](Home-work4/src/main/java/de/telran/Task1.java)
+### Home_work6
+[code](Home-work4/src/main/java/de/telran/Task1.java)
