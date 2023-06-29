@@ -7,6 +7,6 @@
 ### Home_work4
 [code](Home-work4/src/main/java/de/telran/Task1.java)
 ### Home_work5
-[code](Home-work4/src/main/java/de/telran/Task1.java)
+[code](Home-work5/src/main/java/de/telran/MathematicalOperations.java)
 ### Home_work6
 [code](Home-work4/src/main/java/de/telran/Task1.java)
