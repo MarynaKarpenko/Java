@@ -11,7 +11,7 @@
 ### Home_work6
 [code](Home-work6/src/main/java/de/telran/TaskScanner.java)
 ### Home_work7
-# Task_1
+##### Task_1
 [code](Home-work7/src/main/java/de/telran/Task1.java)
-# Task_2
+##### Task_2
 [code](Home-work7/src/main/java/de/telran/Task2.java)
