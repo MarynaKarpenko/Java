@@ -11,4 +11,7 @@
 ### Home_work6
 [code](Home-work6/src/main/java/de/telran/TaskScanner.java)
 ### Home_work7
-[code](Home-work6/src/main/java/de/telran/TaskScanner.java)
+# Task_1
+[code]([Home-work6/src/main/java/de/telran/TaskScanner.java](https://github.com/MarynaKarpenko/Java_home_works/blob/master/Home-work7/src/main/java/de/telran/Task1.java)https://github.com/MarynaKarpenko/Java_home_works/blob/master/Home-work7/src/main/java/de/telran/Task1.java)
+# Task_2
+[code]([Home-work6/src/main/java/de/telran/TaskScanner.java](https://github.com/MarynaKarpenko/Java_home_works/blob/master/Home-work7/src/main/java/de/telran/Task1.java)https://github.com/MarynaKarpenko/Java_home_works/blob/master/Home-work7/src/main/java/de/telran/Task1.java)
