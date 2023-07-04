@@ -10,3 +10,5 @@
 [code](Home-work5/src/main/java/de/telran/MathematicalOperations.java)
 ### Home_work6
 [code](Home-work6/src/main/java/de/telran/TaskScanner.java)
+### Home_work7
+[code](Home-work6/src/main/java/de/telran/TaskScanner.java)
