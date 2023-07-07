@@ -21,16 +21,16 @@ public class TaskScanner {
         String word2 = scanner.nextLine();
 
         int wordLength1 = word1.length();
-        boolean isLength1 = word1.length()%2==0;
-        System.out.println("Word-1 length contains an even number of letters: "+isLength1);
+        boolean isLength1 = word1.length() % 2 == 0;
+        System.out.println("Word-1 length contains an even number of letters: " + isLength1);
 
         int wordLength2 = word2.length();
-        boolean isLength2 = word2.length()%2==0;
-        System.out.println("Word-2 length contains an even number of letters: "+isLength2);
+        boolean isLength2 = word2.length() % 2 == 0;
+        System.out.println("Word-2 length contains an even number of letters: " + isLength2);
 
-        String cutString1 = word1.substring(0,2);
-        String cutString2 = word2.substring(2,4);
+        String cutString1 = word1.substring(0, 2);
+        String cutString2 = word2.substring(2, 4);
 
-        System.out.println(cutString1+cutString2);
+        System.out.println(cutString1 + cutString2);
     }
 }

@@ -19,8 +19,8 @@ import java.util.Random;
 public class Task2 {
     public static void main(String[] args) {
         Random random = new Random();
-        int n = random.nextInt(28800)+1;
-        System.out.println("Время на момент теста: "+n+" секунд");
+        int n = random.nextInt(28800) + 1;
+        System.out.println("Время на момент теста: " + n + " секунд");
 
         int remainingSeconds = 28800 - n;
         int remainingHours = remainingSeconds / 3600;
@@ -28,8 +28,7 @@ public class Task2 {
         // вывод остатка времени до конца рабочего дня в секундах
         if (remainingSeconds > 0) {
             System.out.println("Осталось до окончания работы " + remainingSeconds + " секунд");
-        }
-        else {
+        } else {
             System.out.println("Рабочий день закончился");
         }
 
