@@ -15,3 +15,10 @@
 [code](Home-work7/src/main/java/de/telran/Task1.java)
 #### Task_2
 [code](Home-work7/src/main/java/de/telran/Task2.java)
+### Home_work8
+#### Task_1
+[code](Home-work7/src/main/java/de/telran/Task1.java)
+#### Task_2
+[code](Home-work7/src/main/java/de/telran/Task2.java)
+#### Task_3
+[code](Home-work7/src/main/java/de/telran/Task2.java)
