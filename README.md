@@ -22,3 +22,8 @@
 [code](Home-work8/src/main/java/de/telran/Task2.java)
 #### Task_3
 [code](Home-work8/src/main/java/de/telran/Task3.java)
+### Home_work9
+#### Task_1
+[code](Home-work9/src/main/java/de/telran/Task1.java)
+#### Task_2
+[code](Home-work9/src/main/java/de/telran/Task2.java)
