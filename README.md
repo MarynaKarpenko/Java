@@ -29,6 +29,6 @@
 [code](Home-work9/src/main/java/de/telran/Task2.java)
 ### Home_work10
 #### Task_1
-[code](Home-work9/src/main/java/de/telran/Task1.java)
+[code](Home-work10/src/main/java/de/telran/Task1.java)
 #### Task_2
 [code](Home-work9/src/main/java/de/telran/Task2.java)
